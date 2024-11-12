@@ -5,11 +5,9 @@
 	font-family: 'Noto Serif', serif;
 */
 
-
 a:link, a:visited {
-	color: lightskyblue;
+	color: blue;
 }
-
 a:focus, a:hover {
 	background-color: #ddddff;
 	border-radius: 5px;
@@ -17,10 +15,13 @@ a:focus, a:hover {
 	transition-duration: 0.2s;
 	transition-property: background;
 }
-
+/* added margin and padding */
 body {
 	font-family: 'Noto Serif', serif;
 	font-size: 18px;
+	margin: 0;
+    padding: 0;
+
 }
 
 h1, h2 {
