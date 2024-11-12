@@ -57,17 +57,22 @@ p {
 }
 
 #intro {
-	font-size: 22px;
+	font-size: 21px;
 }
-
+/* added red text to grid middle section */
 #automotive, #maritime, #medical, #physics, #myths {
+	color: red;
 
 }
 
-#header-container {
-
+#header-container, #footer-container
+ {
+    width: 100%;
+    background-color: #f8f8f8;
+    padding: 1rem 0;
 }
 
 #main-container {
-
+    width: 100%;
+    overflow: hidden;
 }
