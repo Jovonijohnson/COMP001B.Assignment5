@@ -5,8 +5,9 @@
 	font-family: 'Noto Serif', serif;
 */
 
+
 a:link, a:visited {
-	color: blue;
+	color: lightskyblue;
 }
 
 a:focus, a:hover {
