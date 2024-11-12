@@ -38,10 +38,14 @@ h1 {
 h2 {
 	font-size: 2.25rem;
 }
-
-header {
-	text-align: center;
+/* adjusted header and footer with background and padding */
+header, footer {
+    text-align: center;
+    width: 100%;
+    background-color: #f8f8f8;
+    padding: 1rem 0;
 }
+
 
 main {
 
@@ -58,10 +62,6 @@ p {
 
 #automotive, #maritime, #medical, #physics, #myths {
 
-}
-
-#footer-container {
-	
 }
 
 #header-container {
