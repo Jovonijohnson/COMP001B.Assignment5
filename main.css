@@ -48,7 +48,7 @@ header, footer {
 
 
 main {
-
+	width: 50%;
 }
 
 p {
@@ -71,6 +71,18 @@ p {
     background-color: #f8f8f8;
     padding: 1rem 0;
 }
+
+nav, main, aside {
+    float: left;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 25%;
+    background-color: #f0f0f0;
+}
+
 
 #main-container {
     width: 100%;
