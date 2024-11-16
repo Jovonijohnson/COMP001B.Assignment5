@@ -49,7 +49,7 @@ h2 {
 header, footer {
     text-align: center; /* Centers the text in header and footer */
     width: 100%; /* Sets the width of header and footer to 100% */
-    background-color: #f8f8f8; /* Sets the background color of header and footer to a light grey*/
+    background-color: orange; /* Sets the background color of header and footer to a light grey*/
     padding: 1rem 0; /* Sets the padding of header and footer to 1rem on top and bottom */
 }
 /* added padding and margin */
@@ -69,7 +69,7 @@ p {
 
 /* added red text to grid middle section */
 #automotive, #maritime, #medical, #physics, #myths {
-    color: red; /* Sets the text color of these elements to red */
+    color: salmon; /* Sets the text color of these elements to red */
 }
 
 #header-container, #footer-container {
@@ -87,11 +87,11 @@ p {
 }
 
 nav {
-    background-color: #f0f0f0; /* Sets the background color of the nav element to a very light grey */
+    background-color: green; /* Sets the background color of the nav element to a very light grey */
 }
 
 aside {
-    background-color: #f0f0f0; /* Sets the background color of the aside element to a very light grey */
+    background-color: red; /* Sets the background color of the aside element to a very light grey */
 }
 
 nav, main, aside {
